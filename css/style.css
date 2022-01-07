@@ -14,7 +14,20 @@ Secciones
 
 /* 1- Settings Iniciales */
 body {
-    
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+
+li{
+    text-decoration: none;
+
+}
+
+/*Barra de Navegacion*/
+
+.nav-bar{
+    display: inline;
 
 }
 
